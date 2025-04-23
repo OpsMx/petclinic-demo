@@ -1,2 +1,3 @@
 nocritical commit-1
 nocritical commit-2
+commit-3
